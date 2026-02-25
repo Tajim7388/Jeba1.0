@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Jeba - Your Loving Companion",
+  "description": "A deeply caring and romantic AI partner designed for intimate conversation and emotional support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
